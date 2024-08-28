@@ -13,10 +13,6 @@ if [ ! -f target/release/sftm ]; then
     exit 1
 fi
 
-TEMPLATE_TARGET_PATH="/home/$USER/.local/share/LICENSER/"
-mkdir -p "$TEMPLATE_TARGET_PATH"
-mv Templates/ "$TEMPLATE_TARGET_PATH"
-
 if [[ "$OSTYPE" == "darwin"* ]]; then
     echo "Detected macOS. Copying sftm to /usr/local/bin..."
     sudo cp target/release/sftm /usr/local/bin/
