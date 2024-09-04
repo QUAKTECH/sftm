@@ -22,19 +22,22 @@ A fast🚀, easy Todo Manager made with Rust🦀 which will be apart of our up c
 ## ✨ Features
 
 - Fast 🚀
-- LightWight 💨
+- LightWeight 💨
 
 
 ## 📦 Instalation
 
-```Shell
-$ git clone https://github.com/QUAKTECH/sftm
-$ cd sftm
-$ chmod +x install.sh
-$ ./install.sh
-```
-Simple Idiot! 
+### Linux/macOS
 
+```Shell
+git clone https://github.com/QUAKTECH/sftm
+cd sftm
+chmod +x install.sh
+./install.sh
+```
+### Windows
+
+idk
 
 ## 📖 Usage
 
