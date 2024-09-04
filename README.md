@@ -8,11 +8,7 @@ By Aeternus • *At* QUAKTECH
 
 ## 📋 Overview
 
-A fast🚀, easy Todo Manager made with Rust🦀 which will be apart of our up coming software suite.
-
-## 📜 Software License
-
-- *MIT License*
+A fast, easy Todo Manager made with Rust🦀 which will be apart of our upcomming software suite.
 
 ## Authors ✍️
 - [Aeternus](https://github.com/Aeternusdio)
@@ -49,6 +45,12 @@ idk
 - check - Check a Todo [ $ sftm check 1 ] (1 is the index of the Todo)
 - show - Show a Todo file [ $ sftm show groceries ]
 
+
+
+
+## 📜 Software License
+
+- *MIT License*
 
 
 ---
