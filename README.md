@@ -3,17 +3,12 @@ By Aeternus • *At* QUAKTECH
 
 <img src="https://avatars.githubusercontent.com/u/170379778?s=200&v=4" alt="QUAKTECH" width="100"/>
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 📋 Overview
 
 A fast, easy Todo Manager made with Rust🦀 which will be apart of our upcomming software suite.
 
 ## Authors ✍️
 - [Aeternus](https://github.com/Aeternusdio)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## ✨ Features
 
@@ -44,13 +39,5 @@ idk
 - version - Show the version of the program [ $ sftm version ]
 - check - Check a Todo [ $ sftm check 1 ] (1 is the index of the Todo)
 - show - Show a Todo file [ $ sftm show groceries ]
-
-
-
-
-## 📜 Software License
-
-- *MIT License*
-
 
 ---
